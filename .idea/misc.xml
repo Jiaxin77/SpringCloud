@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springcloud-eureka-servicesupport2/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-serviceconsume/pom.xml" />
       </list>
     </option>
   </component>
